@@ -15,9 +15,9 @@
     "flushwritable": "^1.0.0"
   },
   "devDependencies": {
+    "checksum": "~0.1.1",
     "mocha": "*",
-    "mongodb": "2.0.15",
-    "checksum": "~0.1.1"
+    "mongodb": "^3.6.3"
   },
   "optionalDependencies": {},
   "engines": {
